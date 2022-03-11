@@ -4,7 +4,7 @@ My name is Virgiawan Teguh Kusuma.
 📫 How to reach me:
 
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
-[<img alt="email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:virgiawan.kusuma@zettacamp.pro)
+[<img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:virgiawan.kusuma@zettacamp.pro)
 
 <p align="left">
 <a href="#">
