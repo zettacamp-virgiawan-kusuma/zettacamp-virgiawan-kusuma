@@ -1,11 +1,3 @@
-### Hi there 👋
-My name is Virgiawan Teguh Kusuma.  
-🌱 I’m currently learning in ZettaCamp Batch 2, provided by Zettabyte Pte. Ltd. as **Front End Developer**.  
-📫 How to reach me:
-
-[<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/virgiawankusuma/)
-[<img alt="email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:virgiawan.kusuma@zettacamp.pro)
-
 <p align="left">
 <a href="#">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=zettacamp-virgiawan-kusuma&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
